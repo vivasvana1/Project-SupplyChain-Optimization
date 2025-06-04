@@ -146,14 +146,6 @@ And:
 | Price Strategy         | Price ≠ cost aligned                            | Cost-based or margin-focused pricing review              |
 | Lead Time              | Poor sync between production and logistics      | Integrated schedule planning                             |
 
----
 
-## 🧭 Next Steps (Updated)
-
-1. Implement multi-echelon inventory model with revenue-weighted ROP
-2. Establish predictive defect risk dashboard (supplier + mode-based)
-3. Run disruption simulations quarterly (delay, port, demand shock)
-4. Start phase-wise rollout of optimized route matrix
-5. Align pricing strategy with manufacturing cost structure
 
 ---
